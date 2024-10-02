@@ -45,7 +45,7 @@ I’m a passionate *Full Stack Developer* with a specialization in the *MERN Sta
 - 🎨 *Design Thinking*
 - 🧠 *Brain-Computer Interaction (BCI)*
 - 🌍 *Geographic Information Systems (GIS)* technology
-- 
+ 
 - 🥈 Led my team to secure *2nd place* in the *Mini Project Presentation Competition* with an innovative project titled *"Adaptive Traffic Light and Smart Interactions"*. 
 
 
@@ -58,8 +58,8 @@ I’m a passionate *Full Stack Developer* with a specialization in the *MERN Sta
 - ⚡ Led *specialized club classes* focused on web development, fostering a *collaborative and hands-on learning environment*.
 - 🧑‍🤝‍🧑 Trained and mentored club members, encouraging *innovation* and *teamwork*.
 - 🔧 Organized hands-on *workshops* and *coding sessions* to develop practical skills in modern web technologies.
-- 
-- - 💡Also lead a sessions of students as a *Professinal Soft Skill Trainer*
+ 
+-  💡Also lead a sessions of students as a *Professinal Soft Skill Trainer*
 
 ---
 
