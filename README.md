@@ -5,7 +5,8 @@
 ✉ *Email:* [mishrashivam2248@gmail.com](mailto:mishrashivam2248@gmail.com)  
 🔗 *LinkedIn:* [linkedin.com/in/shivammishra108](https://www.linkedin.com/in/shivammishra108/)  
 💻 *GitHub:* [github.com/shivammishra108](https://github.com/shivammishra108)
-🔗 *Portfolio:* [shivammishra108.github.io/portfolio/](https://shivammishra108.github.io/portfolio/)
+
+👨‍💻 *Portfolio:* [shivammishra108.github.io/portfolio/](https://shivammishra108.github.io/portfolio/)
 
 ---
 
