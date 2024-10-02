@@ -5,12 +5,14 @@
 ✉ *Email:* [mishrashivam2248@gmail.com](mailto:mishrashivam2248@gmail.com)  
 🔗 *LinkedIn:* [linkedin.com/in/shivammishra108](https://www.linkedin.com/in/shivammishra108/)  
 💻 *GitHub:* [github.com/shivammishra108](https://github.com/shivammishra108)
+🔗 *Portfolio:* [shivammishra108.github.io/portfolio/](https://shivammishra108.github.io/portfolio/)
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a passionate *Full Stack Developer* with a specialization in the *MERN Stack* (MongoDB, Express.js, React.js, Node.js). My expertise lies in *Java, **HTML, **CSS, **JavaScript, and **C, along with strong proficiency in **DSA*. I enjoy creating responsive, dynamic web applications and solving coding challenges.
+I’m a passionate *Full Stack Developer* with a specialization in the *MERN Stack* (MongoDB, Express.js, React.js, Node.js). My expertise lies in Java, HTML, CSS, JavaScript, C, along with strong proficiency in *DSA*. I enjoy creating responsive, dynamic web applications and solving coding challenges. Collaborating closely with designers and fellow developers, I bring projects to life while staying updated on the latest industry trends and best practices.
+
 
 ---
 
@@ -32,8 +34,8 @@ I’m a passionate *Full Stack Developer* with a specialization in the *MERN Sta
 
 ## 💼 Projects
 
-- *🌍 Wanderlust*  
-  Travel booking platform inspired by AirBnB, featuring user and admin dashboards.  
+- *🌍 Yatra Sanyojan(Travelling Website)*  
+  Travel booking platform, featuring user and admin dashboards.  
   Tech Stack: Node.js, Express.js, MongoDB, JavaScript, Bootstrap
 
 - *📘 E-Learning Website*  
